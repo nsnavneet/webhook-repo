@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; }
+.wrap { max-width: 900px; margin: 24px auto; background: #fff; padding: 16px; border-radius: 12px; }
+.status { color: #555; margin-bottom: 12px; }
+.list { padding-left: 18px; }
+.list li { padding: 8px 0; border-bottom: 1px solid #eee; }
